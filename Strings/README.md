@@ -1,0 +1,1 @@
+String problems focus on manipulating and analyzing sequences of characters. Common operations include searching, reversing, comparing, counting characters, checking palindromes, and pattern matching. Practicing string-based problems helps improve problem-solving skills and understanding of algorithms.
