@@ -1,0 +1,17 @@
+public class palindrome{
+    public static void main(String[] args){
+        String s="love";
+        int i=0;
+        int j=s.length()-1;
+        while(i<j){
+            if(s.charAt(i)!=s.charAt(j)){
+                System.out.println("false");
+                return;
+            }
+            i++;
+            j--;
+
+        }
+        System.out.println("true");
+    }
+}
